@@ -64,12 +64,12 @@ K-Means sonuçları ve işletme öncelikleri birleştirilerek müşteriler 3 ana
 ### 1. Müşteri Segment Dağılımı
 Hangi grupta kaç müşterimiz var? Pazarlama bütçesi buna göre ayarlanmalı.
 
-![Segment Dağılımı](images/segment_distribution.png)
+![Segment Dağılımı](Images/bar.png)
 
 ### 2. 3 Boyutlu Segmentasyon Görünümü
 Müşterilerin 3 boyutlu uzayda (Recency - Frequency - Monetary) konumlanması. VIP müşterilerin (Sarı) diğerlerinden ne kadar ayrıştığına dikkat edin.
 
-![3D Segmentasyon](images/3d_segmentation.png)
+![3D Segmentasyon](Images/3D_Model.png)
 ├── RFM_Analysis.ipynb       # Tüm analizin yapıldığı Jupyter Notebook
 ├── requirements.txt         # Gerekli kütüphaneler
 └── README.md                # Proje dokümantasyonu
