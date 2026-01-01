@@ -8,6 +8,7 @@
 Bu proje, online bir perakende şirketinin işlem verilerini kullanarak **RFM (Recency, Frequency, Monetary)** analizi ve **K-Means Kümeleme** algoritması ile müşteri segmentasyonu yapmayı amaçlar.
 
 Elde edilen segmentler, makine öğrenmesi (Unsupervised Learning) ve iş kuralları (Rule-Based) birleştirilerek eyleme dönüştürülebilir bir **Pazarlama Aksiyon Planı**na çevrilmiştir.
+Dataset : https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci
 
 ---
 
