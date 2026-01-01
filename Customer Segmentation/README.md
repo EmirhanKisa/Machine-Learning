@@ -69,7 +69,7 @@ Hangi grupta kaç müşterimiz var? Pazarlama bütçesi buna göre ayarlanmalı.
 ### 2. 3 Boyutlu Segmentasyon Görünümü
 Müşterilerin 3 boyutlu uzayda (Recency - Frequency - Monetary) konumlanması. VIP müşterilerin (Sarı) diğerlerinden ne kadar ayrıştığına dikkat edin.
 
-![3D Segmentasyon](images/3d_segmentation.png)
+![3D Segmentasyon](3D Model.png)
 ├── RFM_Analysis.ipynb       # Tüm analizin yapıldığı Jupyter Notebook
 ├── requirements.txt         # Gerekli kütüphaneler
 └── README.md                # Proje dokümantasyonu
