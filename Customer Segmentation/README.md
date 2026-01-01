@@ -64,7 +64,7 @@ K-Means sonuçları ve işletme öncelikleri birleştirilerek müşteriler 3 ana
 ### 1. Müşteri Segment Dağılımı
 Hangi grupta kaç müşterimiz var? Pazarlama bütçesi buna göre ayarlanmalı.
 
-![Segment Dağılımı](images/segment_distribution.png)
+![Segment Dağılımı](images/bar.png)
 
 ### 2. 3 Boyutlu Segmentasyon Görünümü
 Müşterilerin 3 boyutlu uzayda (Recency - Frequency - Monetary) konumlanması. VIP müşterilerin (Sarı) diğerlerinden ne kadar ayrıştığına dikkat edin.
